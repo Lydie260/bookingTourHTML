@@ -110,8 +110,8 @@ body{
 .home-paragraph{
     color: 3rem; 
     font-size:1.8rem ;
-    margin-bottom: 3rem ; 
-    padding: 3rem; 
+    /* margin-bottom: 3rem ; 
+    padding: 3rem;  */
 }
 .home-btn{
     color: white;
@@ -121,7 +121,6 @@ body{
     box-shadow: 0 1.2rem 3.2rem black;
     position: absolute;
     bottom: 0.3rem;
-    background-color: rgba(137, 43, 226, 0.473);
     padding: 1.2rem 3.2rem;
     left: 50%;
     cursor: pointer;
